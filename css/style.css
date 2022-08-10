@@ -2,6 +2,10 @@ img {
   max-width: 100%;
 }
 
+li.bars-overplay-mset {
+    list-style: none;
+}
+
 a {
   text-decoration: none;
 }
